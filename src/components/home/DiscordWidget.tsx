@@ -74,7 +74,7 @@ export function DiscordWidget() {
 
   return (
     <a
-      href="https://discord.gg/shipofharkinian"
+      href="https://discord.gg/harbourmasters"
       target="_blank"
       rel="noopener noreferrer"
       className="group relative block min-w-0"
@@ -234,7 +234,7 @@ export function DiscordWidgetCompact() {
 
   return (
     <a
-      href="https://discord.gg/shipofharkinian"
+      href="https://discord.gg/harbourmasters"
       target="_blank"
       rel="noopener noreferrer"
       className="flex items-center gap-3 px-4 py-2 rounded-xl bg-indigo-500/10 hover:bg-indigo-500/20 border border-indigo-500/20 transition-colors"

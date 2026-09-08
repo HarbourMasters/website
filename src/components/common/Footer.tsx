@@ -192,7 +192,7 @@ function Footer() {
               </li>
               <li>
                 <a
-                  href="https://discord.gg/shipofharkinian"
+                  href="https://discord.gg/harbourmasters"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center gap-3 text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-all duration-300 py-2 px-3 rounded-lg hover:bg-[var(--color-surface-hover)] -mx-3"
