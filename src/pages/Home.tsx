@@ -35,7 +35,7 @@ const aboutIconMap: Record<string, React.ReactNode> = {
 
 function Home() {
   const { t } = useTranslation(['home', 'common'])
-  useHashSpy(['features', 'stats', 'about', 'community', 'legal'])
+  useHashSpy(['features', 'ports', 'about', 'community', 'legal'])
 
   // Get features from translations
   const featuresList = t('home:whatWeOffer.features', { returnObjects: true }) as FeatureItem[]
